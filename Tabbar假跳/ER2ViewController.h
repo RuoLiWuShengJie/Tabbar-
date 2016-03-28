@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ER2ViewController.h
 //  Tabbar假跳
 //
 //  Created by 吴胜杰 on 16/3/24.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ER2ViewController : UIViewController
 
 @end
-

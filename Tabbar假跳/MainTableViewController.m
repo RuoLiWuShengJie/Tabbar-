@@ -20,7 +20,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    
+//     新的杰斯按
    
     UINavigationController *nav1 = [[UINavigationController alloc]initWithRootViewController:[[item1ViewController alloc]init] ];
     
